@@ -12,6 +12,15 @@ A Library Management System coded in C++ that manages book inventory, handles li
 
 **Inventory Statistics:** 
 
+## Classes
+
+### Book:
+
+### Library:
+
+### Inventory:
+
+
 ## Example
 ```
 Main Menu
