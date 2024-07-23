@@ -6,7 +6,7 @@ A Library Management System coded in C++ that manages book inventory, handles li
 
 **Book Management:** Add, Remove, and update the availability of books.
 
-**Library Transactions:** Checkout, Return, reserve, and renew books.
+**Library Transactions:** Checkout and Return Books.
 
 **Book Search:** Find books by ISBN and view their details.
 
@@ -18,7 +18,7 @@ A Library Management System coded in C++ that manages book inventory, handles li
 Represents a book in the library with the collection of ISBN, Title, Author, Genre, Publication Date, and Availibilty Status
 
 ### Library: 
-Handles all library transactions such as checking out, returning, reserving, and renewing books. Also helps to process overdue books and calculate fines.
+Handles all library transactions such as checking out and returning books.
 
 ### Inventory: 
 Manages the collections of books within the library. Provides the method for adding, removing, and updating books information.
